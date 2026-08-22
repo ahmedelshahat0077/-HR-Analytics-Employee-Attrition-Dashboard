@@ -1,4 +1,4 @@
-📊 HR Analytics Case Study: How Data Uncovers the Hidden Drivers of Employee Attrition
+#📊 HR Analytics Case Study: How Data Uncovers the Hidden Drivers of Employee Attrition
 📌 Executive Summary
 Employee attrition presents a major financial and operational burden. In this case study for Atlas Labs, I developed an end-to-end interactive dashboard in Power BI to analyze employee demographics, work environments, and retention metrics. By combining operational features like overtime and business travel with performance data, the analysis isolates the exact high-risk employee profiles to enable proactive HR interventions.
 
