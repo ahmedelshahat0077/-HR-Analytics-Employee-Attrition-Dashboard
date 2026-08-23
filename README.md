@@ -1,6 +1,9 @@
 # 📊 HR Analytics for Atlas Lab: How Data Uncovers the Hidden Drivers of Employee Attrition
 
-<img width="1594" height="624" alt="19-30-21" src="https://github.com/user-attachments/assets/089fdf6b-6719-493f-9c69-df2f51f108f9" />
+
+
+<img width="1122" height="630" alt="19-57-09" src="https://github.com/user-attachments/assets/af48a31e-3128-44d7-a69d-09301885cec9" />
+
 
 
 # 📌 Executive Summary
