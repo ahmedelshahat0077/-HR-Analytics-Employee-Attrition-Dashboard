@@ -1,5 +1,8 @@
 # 📊 HR Analytics for Atlas Lab: How Data Uncovers the Hidden Drivers of Employee Attrition
 
+<img width="1594" height="624" alt="19-30-21" src="https://github.com/user-attachments/assets/089fdf6b-6719-493f-9c69-df2f51f108f9" />
+
+
 # 📌 Executive Summary
 Employee attrition presents a major financial and operational burden. In this case study for Atlas Labs, I developed an end-to-end interactive dashboard in Power BI to analyze employee demographics, work environments, and retention metrics. By combining operational features like overtime and business travel with performance data, the analysis isolates the exact high-risk employee profiles to enable proactive HR interventions.
 
