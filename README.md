@@ -2,7 +2,8 @@
 
 
 
-<img width="1122" height="630" alt="19-57-09" src="https://github.com/user-attachments/assets/af48a31e-3128-44d7-a69d-09301885cec9" />
+<img width="1114" height="622" alt="20-07-46" src="https://github.com/user-attachments/assets/9950c8fd-e8e9-4463-aa6c-84ce46a5cb59" />
+
 
 
 
@@ -57,8 +58,4 @@ Overhaul the First-Year Onboarding: Design a structured 90-day onboarding and me
 
 Role-Specific Retention Packages: Benchmark compensation packages, performance bonuses, and career growth tracks for critical roles (Sales, Recruiting, Data Science) against top market standards.
 
-# 📸 Dashboard Screenshots & Demo
-(حط الصور أو الـ GIF الخاص بك هنا)
 
-1. Executive Summary Page
-2. Attrition & Overtime Deep-Dive
